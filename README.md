@@ -81,7 +81,7 @@ This dashboard enables stakeholders to:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Dashboard_preview.png)
 
 
 
